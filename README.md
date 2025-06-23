@@ -31,9 +31,10 @@ Zero-shot Prompting
 Aunque no se le dan ejemplos explícitos (como en few-shot), el modelo está realizando la tarea basándose únicamente en las instrucciones que recibe. No hay pares de entrada-salida previos que le muestren el formato deseado más allá de las propias instrucciones. En este sentido, confía en el conocimiento pre-entrenado del modelo para generar la descripción y luego la optimización para la imagen.
 
 ## Instalaciones requeridas para el funcionamiento del python:
-google.genai 
+* pandas 
+* google.genai. 
 Para este proyecto se utilizó google.genai tanto para la creación de texto como de imagen
-pandas
+
 
 ## Resultados
 La herramienta genera descripciones detalladas de todos los atributos necesarios para lograr la decoración con el estilo solicitado. A su vez, genera  imagenes ilustrativas muy acertadas, que mejoran la experiencia del usuario al poder visualizar los puntos claves del diseño propuesto.
