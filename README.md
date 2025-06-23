@@ -1,4 +1,4 @@
-# **Entrega Final- Inteligencia Artificial Generación de Prompts"** #
+# **Entrega Final- Inteligencia Artificial Generación de Prompts** #
 ### Alumna: Fiorella Pasca
 ### Comisión: 84185
 
